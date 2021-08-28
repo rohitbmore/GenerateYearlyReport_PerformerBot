@@ -1,0 +1,41 @@
+Project created
+System1 Login, logout, nav to WItems, Update WItem copied
+send email coped and dependancies added
+Get Credentials.xaml copied
+Kill process.xaml completed - kill process chrome
+InitAllApps - completed (System1 login -> get credentials.xaml)
+
+Initialization State Completed
+*****************************************************
+
+Process.xaml to be started now
+
+Navigate to WIID details done
+
+ExtractVendorInformation.xaml completed - return TaxID
+
+UnitTest to do->System1_NavigateToMonthlyReport & System1_DownloadMonthlyReports - done, successful
+
+Folder cleanup workflow - development completed, tested successfully
+
+All development completed...
+
+****************************************************
+
+Unit Testing in Progress for all workflows
+
+System1 Login & logout - NA as reused from other project
+
+Navigate to Monthly Report.xaml - successful
+
+Navigate to upload yearly report - successful
+
+Navigate to WIDetails - NA as reused from other project
+
+Navigate to Dashboard - successful
+
+Navigate To Work Items - successful
+
+Update Work Item - NA as reused from other project
+
+Create Yearly Report.xaml - Unit test successful

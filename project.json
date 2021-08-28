@@ -1,0 +1,84 @@
+{
+  "name": "GenerateYearlyReport_PerformerBot",
+  "description": "GenerateYearlyReport_PerformerBot",
+  "main": "Main.xaml",
+  "dependencies": {
+    "DownloadfromBrowser.Activities": "[1.0.0]",
+    "Outlook.Mail.Activities": "[1.0.2]",
+    "OutlookActivities": "[1.1.1]",
+    "UiPath.Excel.Activities": "[2.10.4]",
+    "UiPath.Mail.Activities": "[1.11.2-preview]",
+    "UiPath.System.Activities": "[21.4.1]",
+    "UiPath.UIAutomation.Activities": "[21.4.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "df0d9463-3218-4451-ad06-7085ec378be1",
+        "fileName": "System1\\System1_ExtractVendorInformation_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "34e16405-4c1f-42aa-aa2b-738cb8bd530b",
+        "fileName": "System1\\System1_DownloadMonthlyReports_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b5d5790a-7e50-4b02-99dd-bb67ffb5c97e",
+        "fileName": "System1\\System1_NavigateTo_MonthlyReport_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "106f4866-5609-4764-b4fb-704224a37a4b",
+        "fileName": "System1\\System1_NavigateTo_UploadYearlyReport_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "506fb583-f8b6-4262-9765-e2af4493dee1",
+        "fileName": "System1\\System1_CreateYearlyReport_TestCase1.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "88046c12-0643-4b79-8d3b-ade984dce630",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
