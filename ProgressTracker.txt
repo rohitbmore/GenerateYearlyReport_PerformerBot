@@ -39,3 +39,11 @@ Navigate To Work Items - successful
 Update Work Item - NA as reused from other project
 
 Create Yearly Report.xaml - Unit test successful
+
+***********************************************************
+
+Performer Testing completed - Successful
+
+Deployed to Git & Orchestrator
+
+
